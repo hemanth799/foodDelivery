@@ -1,0 +1,40 @@
+{
+    "state": [
+        {
+            "id": 1,
+            "name": "Andhra Pradesh"
+        },
+        {
+            "id": 2,
+            "name": "Hyderabad"
+        }
+    ],
+    "city": [
+        {
+            "id": 101,
+            "name": "Vizianagaram"
+        },
+        {
+            "id": 201,
+            "name": "Visakhapatnam"
+        }
+    ],
+    "hotels": [
+        {
+            "id": 110,
+            "name": "Lakshmi Hotel"
+        },
+        {
+            "id": 111,
+            "name": "Mayura Hotel"
+        },
+        {
+            "id": 210,
+            "name": "Novotel Hotel"
+        },
+        {
+            "id": 211,
+            "name": "Abhiruchi Hotel"
+        }
+    ]
+}
